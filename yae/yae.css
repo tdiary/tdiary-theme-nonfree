@@ -1,6 +1,6 @@
 /*
 Title: Yae
-Revision: $Revision: 1.1 $
+Revision: $Revision: 1.2 $
 Author: elle-effe
 Access: elle-effe@xq.readymade.jp
 License: CSS¤Î¤ßGPL
@@ -610,8 +610,10 @@ p.big {
         background-color: transparent;
 }
 form.search{
-	margin: 0px;
+	width: 500px;
 	text-align: left;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 table,td{
