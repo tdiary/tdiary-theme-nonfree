@@ -7,6 +7,10 @@ Copyright by (C) sapphire <http://sapphire.tdiary.net/>
 validated by W3C.
 
 ChangeLog
+2003-09-22 NT <nt@be.to>
+	* remove specification of font-family.
+	* font-size: em -> %.
+	
 2002-11-03 zoe <zoe@kasumi.sakura.ne.jp>
         * panchor -> sanchor. 
 

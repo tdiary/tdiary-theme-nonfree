@@ -18,7 +18,6 @@ License: CSSのみGPL
 
 body {
 	text-align : center;
-	font-family :osaka, Arial,"MS UI Gothic";
 	font-size: small;
 	background-image: url(yozora.gif);
 	background-attachment:fixed;
@@ -308,7 +307,6 @@ p.strong {
 	font-size: 200%;
 	font-weight: bold;
 	text-align: center;
-	font-family:"Comic Sans MS","ＭＳ UI ゴシック",sans-serif;
 	color: #400080;
 }
 
@@ -316,7 +314,7 @@ p.strong {
 ツッコミ省略版本文
 */
 div.commentshort {
-        font-size: 0.9em;
+        font-size: 90%;
         margin-left: 0.5em;
 }
 
@@ -335,7 +333,7 @@ div.commentshort p {
 ツッコミ本体
 */
 div.commentbody {
-        font-size: 0.9em;
+        font-size: 90%;
         margin: 0.5em;
         line-height: 1.2em;
 }
@@ -359,12 +357,12 @@ div.commentbody p {
 フォームの設定
 */
 div.form div.caption {
-        font-size: 0.9em;
+        font-size: 90%;
         margin: 0.5em;
 }
 
 div.form form.comment {
-        font-size: 0.9em;
+        font-size: 90%;
 }
 
 div.field {

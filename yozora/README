@@ -11,6 +11,10 @@ Comment: 夜空をイメージしたテーマ。背景画像はSarsya、cssはNanaが製作した共同テー
 	Modified by Nana <moo@xu.boo.jp>
 
 ChangeLog
+2003-09-22 NT <nt@be.to>
+	* remove specification of font-family.
+	* font-size: em -> %.
+	
 2002-10-19 Nana <moo@xu.boo.jp>
 	* remove p.comment,scrollbar property is only for IE.
 	* div.calendar {text-align: center ->left}

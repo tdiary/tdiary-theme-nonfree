@@ -2,7 +2,7 @@
 	ajisai.css: Ajisai Style Sheet of tDiary
 	Copyright by (C) sapphire <http://sapphire.tdiary.net/>
 	Title:ajisai
-	Revision: $Revision: 1.1.1.1 $
+	Revision: $Revision: 1.2 $
 	Author: sapphire
 	Comment: 雨の日もさわやかに
 
@@ -86,7 +86,6 @@ h2 {
 	margin : 1em 0 0.5em 2em;
 	font-size : medium;
 	font-weight : bold;
-	font-family : Arial, Chicago, sans-serif;
 }
 
 h3 {
@@ -210,7 +209,6 @@ pre {
 	padding : 1em 0;
 	width : 97%;
 	font-size : 90%;
-	font-family : monospace;
 	border-top : 1px dashed #4682B4;
 	border-bottom : 1px dashed #4682B4;
 	overflow : visible;
@@ -295,7 +293,6 @@ td.calendar-day {
 	margin : 0;
 	padding : 1px 2px;
 	text-align : right;
-	font-family : monospace;
 }
 
 td.calendar-current-month {
@@ -340,7 +337,7 @@ td.calendar-saturday {
 ツッコミ省略版本文
 */
 div.commentshort {
-        font-size: 0.9em;
+        font-size: 90%;
         margin-left: 0.5em;
 }
 
@@ -358,7 +355,7 @@ div.commentshort p {
 ツッコミ本体
 */
 div.commentbody {
-        font-size: 0.9em;
+        font-size: 90%;
         margin: 0.5em;
         line-height: 1.2em;
 }
@@ -386,12 +383,12 @@ div.form form {
 }
 
 div.form div.caption {
-        font-size: 0.9em;
+        font-size: 90%;
         margin: 0.5em;
 }
 
 div.form form.comment {
-        font-size: 0.9em;
+        font-size: 90%;
 }
 
 div.field {
